@@ -3,7 +3,7 @@ En este desafio por parte del programa ONE ORACLE Next Education desarrollamos u
 
 Todo esto con la validacion de autenticacion lo que con lleva la creacion del token por usuario en especifico para hacer uso de esta.
 
-##Funcionalidades
+## Funcionalidades
 
 Autenticacion/login:
 ![Autenticacion](https://github.com/user-attachments/assets/4aed9fae-48e4-43d6-8777-94b9f2e90fa0)
@@ -28,6 +28,9 @@ Obtener un topico en especifico:
 
 Eliminar topico:
 ![Eliminar topico](https://github.com/user-attachments/assets/0dab151e-2177-45e9-8519-0087c2755944)
+
+
+
 
 
 
